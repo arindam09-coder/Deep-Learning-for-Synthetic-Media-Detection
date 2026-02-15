@@ -1,7 +1,9 @@
 # Deep-Learning-for-Synthetic-Media-Detection
 Prototype deep learning system for detecting AI-generated synthetic media using ResNet18
 
-Deep Learning for Synthetic Media Detection
+Dataset & Trained Model
+https://drive.google.com/drive/folders/1Z-R1NdiUxhaOTjZqfB3rIzaP327HeYgx?usp=sharing
+
 
 This project presents a prototype system for detecting AI-generated synthetic media using deep learning techniques.
 
